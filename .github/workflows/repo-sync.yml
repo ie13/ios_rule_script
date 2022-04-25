@@ -1,4 +1,5 @@
 # File: .github/workflows/repo-sync.yml
+name: repo-sync
 
 on:
   workflow_dispatch:
